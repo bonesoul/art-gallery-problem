@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="ArtGalleryProblem.AboutBox" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AboutBox.cs</FileName>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAEAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArtGalleryProblem.Form1" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>iBQQIAGAAaAAAJAgMFCAAAQKCEI4ARgIAiCAQAEAgBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArtGalleryProblem.mLineSegment" Collapsed="true">
+    <Position X="13.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>mLineSegment.cs</FileName>
+      <HashCode>AQAAAAAhAAAAAAAAAAAAAAAAAAAAAAAAAAABAAYAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArtGalleryProblem.mPolygon">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>mPolygon.cs</FileName>
+      <HashCode>AAAAAAECAAAAAAAUAAkQAAAAgAAQAAAACAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArtGalleryProblem.mPolygonShape">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>mPolygonShape.cs</FileName>
+      <HashCode>iARkEAAAAAAAEABAEAAggAAIABEAAAgAAAAACAAAFBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArtGalleryProblem.Program" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArtGalleryProblem.Properties.Resources" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQgAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArtGalleryProblem.Properties.Settings" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ArtGalleryProblem.prosess_status" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>CAAAABAAEAAAAAAAABBAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ArtGalleryProblem.VertexType" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>mPolygon.cs</FileName>
+      <HashCode>AAAEAAAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ArtGalleryProblem.PolygonDirection" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>mPolygon.cs</FileName>
+      <HashCode>AAAAgAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ArtGalleryProblem.vertex_color" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>mPolygonShape.cs</FileName>
+      <HashCode>AAACAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>
